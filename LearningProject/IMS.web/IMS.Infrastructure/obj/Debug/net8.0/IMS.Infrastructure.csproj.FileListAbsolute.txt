@@ -1,0 +1,34 @@
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.deps.json
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.pdb
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\refint\IMS.Infrastructure.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.pdb
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\ref\IMS.Infrastructure.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Models.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Models.pdb
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infr.A6A27735.Up2Date
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.runtimeconfig.json
+C:\Users\Apil\source\repos\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.genruntimeconfig.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.deps.json
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.runtimeconfig.json
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Infrastructure.pdb
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Models.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\bin\Debug\net8.0\IMS.Models.pdb
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.AssemblyInfo.cs
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infr.A6A27735.Up2Date
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\refint\IMS.Infrastructure.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.pdb
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\IMS.Infrastructure.genruntimeconfig.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Infrastructure\obj\Debug\net8.0\ref\IMS.Infrastructure.dll

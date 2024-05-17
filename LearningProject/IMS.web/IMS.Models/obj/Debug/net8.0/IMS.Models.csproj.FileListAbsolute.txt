@@ -1,0 +1,24 @@
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\bin\Debug\net8.0\IMS.Models.deps.json
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\bin\Debug\net8.0\IMS.Models.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\bin\Debug\net8.0\IMS.Models.pdb
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.AssemblyInfoInputs.cache
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.AssemblyInfo.cs
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\obj\Debug\net8.0\refint\IMS.Models.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.pdb
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\obj\Debug\net8.0\ref\IMS.Models.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.csproj.AssemblyReference.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Models\bin\Debug\net8.0\IMS.Models.deps.json
+E:\IMSWEb BAckup\IMS.web\IMS.Models\bin\Debug\net8.0\IMS.Models.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Models\bin\Debug\net8.0\IMS.Models.pdb
+E:\IMSWEb BAckup\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.csproj.AssemblyReference.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\IMSWEb BAckup\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.AssemblyInfoInputs.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.AssemblyInfo.cs
+E:\IMSWEb BAckup\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.csproj.CoreCompileInputs.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Models\obj\Debug\net8.0\refint\IMS.Models.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Models\obj\Debug\net8.0\IMS.Models.pdb
+E:\IMSWEb BAckup\IMS.web\IMS.Models\obj\Debug\net8.0\ref\IMS.Models.dll

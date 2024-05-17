@@ -1,0 +1,22 @@
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\bin\Debug\net8.0\IMS.Utility.deps.json
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\bin\Debug\net8.0\IMS.Utility.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\bin\Debug\net8.0\IMS.Utility.pdb
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.AssemblyInfoInputs.cache
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.AssemblyInfo.cs
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\obj\Debug\net8.0\refint\IMS.Utility.dll
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.pdb
+C:\Users\Apil\source\repos\IMS.web\IMS.Utility\obj\Debug\net8.0\ref\IMS.Utility.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\bin\Debug\net8.0\IMS.Utility.deps.json
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\bin\Debug\net8.0\IMS.Utility.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\bin\Debug\net8.0\IMS.Utility.pdb
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.AssemblyInfoInputs.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.AssemblyInfo.cs
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.csproj.CoreCompileInputs.cache
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\obj\Debug\net8.0\refint\IMS.Utility.dll
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\obj\Debug\net8.0\IMS.Utility.pdb
+E:\IMSWEb BAckup\IMS.web\IMS.Utility\obj\Debug\net8.0\ref\IMS.Utility.dll
