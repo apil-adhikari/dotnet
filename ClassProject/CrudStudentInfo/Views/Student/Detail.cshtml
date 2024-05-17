@@ -1,0 +1,41 @@
+﻿@model CrudStudentInfo.Models.StudentInfo
+
+<h2>Student Detail</h2>
+<hr />
+@if (Model is null)
+{
+    <p>No student found with this Id.</p>
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Id)</th>
+        <td>@Html.DisplayFor(model => model.Id)</td>
+    </tr>
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Name)</th>
+        <td>@Html.DisplayFor(model => model.Name)</td>
+    </tr>
+
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Email)</th>
+        <td>@Html.DisplayFor(model => model.Email)</td>
+    </tr>
+
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Department)</th>
+        <td>@Html.DisplayFor(model => model.Department)</td>
+    </tr>
+
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Address)</th>
+        <td>@Html.DisplayFor(model => model.Address)</td>
+    </tr>
+</table>
+
+<div class="row mt-3 ">
+    <div class="col text-center">
+        <a class="btn btn-secondary" asp-action="Index">Back to List</a>
+    </div>
+    
+</div>
