@@ -11,6 +11,10 @@ This repository serves as a hub for various learning projects related to .NET de
    - Description: An Inventory Management System (IMS) web application developed using the Model-View-Controller (MVC) architectural pattern and following an N-tier architecture.
    - [Link to Project 1 Details](/LearningProject/IMS.web/README.md)
 
+### 2. Project 2: CRUD Operation of Student data
+   - Description: This is an basic web application developed using the Model-View-Controller (MVC) architectural pattern which allows to perform CRUD operation(basic student management task).
+   - [Link to Project 2 Details](/ClassProject/CrudStudentInfo/README.md)
+
 ## Future Projects
 I plan to add more .NET projects to this repository in the future. Some of the projects I am considering include:
 - ECommerce Web App and more 
