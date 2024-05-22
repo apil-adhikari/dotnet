@@ -15,6 +15,10 @@ This repository serves as a hub for various learning projects related to .NET de
    - Description: This is an basic web application developed using the Model-View-Controller (MVC) architectural pattern which allows to perform CRUD operation(basic student management task).
    - [Link to Project 2 Details](/ClassProject/CrudStudentInfo/README.md)
 
+### 2. Project 3: CRUD Operation of Football Player data with Validation
+   - Description: This is an basic web application developed using the Model-View-Controller (MVC) architectural pattern which allows to perform CRUD operation. This project is limited to Inserting data and its validation till now. I will be working in the project in comming days.
+   - [Link to Project 3 Details](/ClassProject/PlayerInfoCrudWithValidation/README.md)
+
 ## Future Projects
 I plan to add more .NET projects to this repository in the future. Some of the projects I am considering include:
 - ECommerce Web App and more 
