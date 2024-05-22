@@ -1,0 +1,58 @@
+﻿@model IEnumerable<PlayerInfoCrudWithValidation.Models.Player>
+
+
+@* Manage Player Header *@
+<div class="container col-xs-12 box bg-info py-3 rounded mb-3">
+    <div class="row ">
+        <div class="col-6">
+            <h2>Manage <strong>Players</strong></h2>
+        </div>
+
+        <div class="col-6 align-content-center  ">
+            <a class="btn btn-primary float-end" asp-controller="Player" asp-action="Add">Add New Player</a>
+        </div>
+    </div>
+</div>
+
+@if (Model != null && Model.Any())
+{
+<h2>Player Details</h2>
+
+    <table class="table table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <td>Id</td>
+                <td>Name</td>
+                <td>Date of Birth</td>
+                <td>Sex</td>
+                <td>Nationality</td>
+                <td>Address</td>
+                <td>Phone Number</td>
+                <td>Player Position</td>
+                @* <td>Profile Picture</td> *@
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var player in Model)
+            {
+                <tr>
+                    <td>@player.Id</td>
+                    <td>@player.Name</td>
+                    <td>@player.DateOfBirth</td>
+                    <td>@player.Sex</td>
+                    <td>@player.Nationality</td>
+                    <td>@player.Address</td>
+                    <td>@player.PhoneNumber</td>
+                    <td>@player.PlayerPosition</td>
+                    @* <td>@System.IO.Path.GetFileName(player.ProfilePicture)</td> *@
+                </tr>
+
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <h4 class="text-center text-danger " >Please add Player to see their detail</h4>
+}
