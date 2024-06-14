@@ -1,0 +1,12 @@
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\bin\Debug\net8.0\ApilSMS.Models.deps.json
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\bin\Debug\net8.0\ApilSMS.Models.dll
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\bin\Debug\net8.0\ApilSMS.Models.pdb
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\obj\Debug\net8.0\ApilSMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\obj\Debug\net8.0\ApilSMS.Models.AssemblyInfoInputs.cache
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\obj\Debug\net8.0\ApilSMS.Models.AssemblyInfo.cs
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\obj\Debug\net8.0\ApilSMS.Models.csproj.CoreCompileInputs.cache
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\obj\Debug\net8.0\ApilSMS.Models.sourcelink.json
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\obj\Debug\net8.0\ApilSMS.Models.dll
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\obj\Debug\net8.0\refint\ApilSMS.Models.dll
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\obj\Debug\net8.0\ApilSMS.Models.pdb
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Models\obj\Debug\net8.0\ref\ApilSMS.Models.dll

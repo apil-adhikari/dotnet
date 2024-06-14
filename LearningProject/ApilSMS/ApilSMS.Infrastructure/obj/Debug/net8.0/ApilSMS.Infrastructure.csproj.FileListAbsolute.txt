@@ -1,0 +1,12 @@
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\bin\Debug\net8.0\ApilSMS.Infrastructure.deps.json
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\bin\Debug\net8.0\ApilSMS.Infrastructure.dll
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\bin\Debug\net8.0\ApilSMS.Infrastructure.pdb
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\obj\Debug\net8.0\ApilSMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\obj\Debug\net8.0\ApilSMS.Infrastructure.AssemblyInfoInputs.cache
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\obj\Debug\net8.0\ApilSMS.Infrastructure.AssemblyInfo.cs
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\obj\Debug\net8.0\ApilSMS.Infrastructure.csproj.CoreCompileInputs.cache
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\obj\Debug\net8.0\ApilSMS.Infrastructure.sourcelink.json
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\obj\Debug\net8.0\ApilSMS.Infrastructure.dll
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\obj\Debug\net8.0\refint\ApilSMS.Infrastructure.dll
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\obj\Debug\net8.0\ApilSMS.Infrastructure.pdb
+E:\New folder\DotNet\dotnet\LearningProject\ApilSMS\ApilSMS.Infrastructure\obj\Debug\net8.0\ref\ApilSMS.Infrastructure.dll
