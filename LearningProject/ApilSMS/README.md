@@ -55,3 +55,16 @@ The `OnModelCreating` method is part of the `DbContext` class in **Entity Framew
   It uses the `ModelBuilder` to configure the schema for the `ApplicationUser` and `IdentityRole` entities.
 #### IdentityRole Entity Configuration
 The table name in the database is explicitly set to "Roles" instead of the default "IdentityRole". The `Id` property of the role entity is being mapped to a column named `RoleId` in the "Roles" table.
+
+## appsettings.json
+Adding `ConnectionString` to our app settings.
+```C#
+"ConnectionStrings": {
+  "DefaultConnection": "Server:DESKTOP-7OJEPMF\\SQLEXPRESS;Database=ApilSMS;Trusted_Connection=True;MultipleActiveResultSets=True;TrustServerCertificate=True"
+}
+```
+
+Updating `Program.cs`: Configure the connection string for Entity Framework Core
+```C#
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefautlConnection")));
+```
