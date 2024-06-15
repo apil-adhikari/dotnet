@@ -17,7 +17,7 @@ namespace ApilSMS.Web.Data
         {
             base.OnModelCreating(builder);
 
-            builder.Entity<ApplicationUser>().Property(e => e.FristName).HasMaxLength(100).IsRequired();
+            builder.Entity<ApplicationUser>().Property(e => e.FirstName).HasMaxLength(100).IsRequired();
 
             builder.Entity<ApplicationUser>().Property(e => e.MiddleName).HasMaxLength(100);
 

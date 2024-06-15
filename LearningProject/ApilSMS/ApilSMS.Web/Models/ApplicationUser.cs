@@ -7,7 +7,7 @@ namespace ApilSMS.Web.Models
     {
         [Required(ErrorMessage ="First Name is require")]
         [StringLength(100)]
-        public string FristName { get; set; }
+        public string FirstName { get; set; }
 
         [StringLength(100)]
         public string MiddleName { get; set; }

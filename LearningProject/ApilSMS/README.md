@@ -68,3 +68,115 @@ Updating `Program.cs`: Configure the connection string for Entity Framework Core
 ```C#
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefautlConnection")));
 ```
+
+## SeedingData
+`SeedingData` class is used to create roles for our application. It contains a method `SeedRolesAndAdminAsync` that is responsible for initializing **roles** and an **admin user** in our application’s database. 
+
+### RoleManager and UserManager: 
+The method starts by retrieving the `RoleManager` and `UserManager` services from the provided `IServiceProvider`. These services are used to manage roles and users in the Identity system of our application.
+```C#
+var roleManager = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+var userManager = serviceProvider.GetRequiredService<UserManager<ApplicationUser>>();
+```
+
+### Define Roles:
+ An array of role names is defined, which includes “`SUPERADMIN`”, “`ADMIN`”, and “`STUDENT`”. These are the roles that will be seeded into the database.
+
+```C#
+string[] roleNames = { "SUPERADMIN", "ADMIN", "STUDENT" };
+```
+
+ ### Seed Roles: 
+ The method then iterates over the array of role names, checking if each role already exists in the database using `roleManager.RoleExistsAsync`. If a role does not exist, it is created using `roleManager.CreateAsync`.
+```C#
+foreach (var roleName in roleNames)
+{
+    var roleExist = await roleManager.RoleExistsAsync(roleName);
+    if (!roleExist)
+    {
+        await roleManager.CreateAsync(new IdentityRole(roleName));
+    }
+}
+```
+
+### Assign Role to User: 
+If the creation of the super admin user is successful (`result.Succeeded`), the method assigns the “`SUPERADMIN`” role to this user using `userManager.AddToRoleAsync`.
+
+```C#
+if (await userManager.FindByEmailAsync("superadmin@sms.com") == null)
+{
+
+    var role = roleManager.FindByNameAsync("SUPERADMIN").Result;
+    var superAdminUser = new ApplicationUser
+    {
+        Email = "superadmin@sms.com",
+        UserName = "superadmin@sms.com",
+        FirstName = "Super",
+        LastName = "Admin",
+        UserRoleId = role.Id,
+        EmailConfirmed = true,
+        IsActive = true,
+        CreatedDate = DateTime.Now
+    };
+
+    // Creating the super admin with password
+    var result = await userManager.CreateAsync(superAdminUser, "SuperAdmin@123");
+    await userManager.SetLockoutEnabledAsync(superAdminUser, false);
+
+    // Assign the "SUPERADMIN" role to the super admin user
+    if (result.Succeeded)
+    {
+        await userManager.AddToRoleAsync(superAdminUser, "SUPERADMIN");
+    }
+}
+```
+
+This seeding process ensures that when our application starts, it has at least one super admin user with the highest privileges and predefined roles that can be assigned to other users.
+
+Updating `Program.cs`:
+ Adding Identity services and configure the identity options before the build. It registers the Identity services, which include user and role management, token generation, and Entity Framework stores for managing these entities.
+
+```C#
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
+```
+
+**SeedingData** creates a service scope to access the `RoleManager` and `UserManager` services and calls the `SeedRolesAndAdminAsync` method to ensure **roles** and the **super admin user** are created.
+
+```C#
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    await SeedingData.SeedRolesAndAdminAsync(services);
+}
+```
+
+Adding `app.UseAuthentication()` below the build. These enable **authentication and authorization middleware** in the application.
+
+```C#
+app.UseAuthentication();
+app.UseAuthorization();
+```
+
+### Manage DataBase Migration
+In Entity Framework Core, migrations are used to manage changes to our database schema.
+ 
+**Add-Migration InitialCreate **
+This command creates a new migration named “InitialCreate”. Migrations are like version control for our database, allowing us to update the database schema in a controlled way. The “InitialCreate” migration will contain the necessary code to create the database schema based on your current model definitions.
+
+    Add-Migration InitialCreate
+    
+**Update-Database:** This command applies the pending migrations to the database. In this case, it will apply the “InitialCreate” migration our just created, which will create the database tables and relationships as defined in our models and DbContext.
+
+    Update-Database
+
+***For multiple DbContexts:***
+
+Adding Migration:
+
+    Add-Migration -Context DbContextName MigrationName
+
+Updating Database:
+
+    Update-Database -Context DbContextName

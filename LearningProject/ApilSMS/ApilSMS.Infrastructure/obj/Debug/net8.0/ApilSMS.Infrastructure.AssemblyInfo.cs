@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApilSMS.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d0134b843bfb03b275a0e7ed2170eb3658f687d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dc386063df7956bbc8af051890fd3551d4a980a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApilSMS.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApilSMS.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
