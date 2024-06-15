@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApilSMS.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24d024c84043b58662b5b9640708aa7b54ad1fc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d0134b843bfb03b275a0e7ed2170eb3658f687d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApilSMS.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApilSMS.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
