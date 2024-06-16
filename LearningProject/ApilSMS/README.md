@@ -162,7 +162,7 @@ app.UseAuthorization();
 ### Manage DataBase Migration
 In Entity Framework Core, migrations are used to manage changes to our database schema.
  
-**Add-Migration InitialCreate **
+**Add-Migration InitialCreate**
 This command creates a new migration named “InitialCreate”. Migrations are like version control for our database, allowing us to update the database schema in a controlled way. The “InitialCreate” migration will contain the necessary code to create the database schema based on your current model definitions.
 
     Add-Migration InitialCreate
@@ -180,3 +180,22 @@ Adding Migration:
 Updating Database:
 
     Update-Database -Context DbContextName
+
+---
+
+**After adding `ApplicationUser` **roles** in the database using `SeedingData`, we move to creating tables that are required in our **SMS system****
+
+## Configure Base Entity Class
+Now, we move to the models, we have a base entity class `BaseEntity` serves as a foundational blueprint for other entities in our application's data model. It encapsulates common properties such as `Id`, `IsActive`, `CreatedDate`, `CreatedBy`, `ModifiedDate`, and `ModifiedBy`, which are frequently shared across various entities. By centralizing these properties in a base class, we developers can **ensure consistency in data structure, simplify code maintenance, and enhance data management capabilities**. This approach promotes code reuse, reduces redundancy, and facilitates easier implementation of cross-cutting concerns such as auditing, versioning, and soft deletion across multiple entity types within the application.
+
+```C#
+public class BaseEntity
+{
+    public int Id { get; set; }
+    public bool IsActive { get; set; }
+    public DateTime CreatedDate { get; set; }
+    public string CreatedBy { get; set; }
+    public DateTime ModifiedDate { get; set; }
+    public string ModifiedBy { get; set; }
+}
+```

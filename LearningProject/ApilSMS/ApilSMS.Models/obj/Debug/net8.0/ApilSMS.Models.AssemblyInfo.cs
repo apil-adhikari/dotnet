@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApilSMS.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dc386063df7956bbc8af051890fd3551d4a980a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+952b4edff7a2e7a2c4da1b12346daa4c53774829")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApilSMS.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApilSMS.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
