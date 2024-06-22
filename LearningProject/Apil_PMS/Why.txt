@@ -1,0 +1,185 @@
+Initial Required Packages:
+1) Microsoft.EntityFrameworkCore
+2) Microsoft.EntityFrameworkCore.SqlServer
+2) Microsoft.EntityFrameworkCore.Tools
+
+ApplicationUser for Application Access 
+ApplicationUser is inherited from IdentityUser:
+using Microsoft.AspNetCore.Identity;
+using System.ComponentModel.DataAnnotations;
+
+namespace Apil_PMS.Web.Models
+{
+    public class ApplicationUser: IdentityUser
+    {
+        [Display(Name = "Firs Name")]
+        public string FirstName { get; set; }
+        [Display(Name = "Middle Name ")]
+        public string MiddleName { get; set; }
+        [Display(Name = "Last Name")]
+        public string LastName { get; set; }
+
+        public string Address { get; set; }
+
+        [Display(Name ="Store Name")]
+        public string StoreId { get; set; }
+
+        [Display(Name = "User Role")]
+        public string UserId { get; set; }
+
+        public string ProfileUrl { get; set; }
+
+        public bool IsActive {  get; set; }
+        public DateTime CreatedDate {  get; set; }
+        public string CreatedBy { get; set; }
+        public DateTime ModifiedDate { get; set; }
+        public string ModifiedBy { get; set; }
+    }
+}
+
+
+A Data folder is created to use DbContext:
+What is DbContext??: We can think DbContext as the database connection and a set of tables. DbSet as a representation of the table themeselves.The DbContext allows us to link our model properties(in EF) to our database with a connection string.
+
+ApplicationDbContext: In this app, ApplicationDbContext is mainly used for handling the ApplicationUser & Roles in our database.
+
+We inherit ApplicationDbcontext from IdentityDbContext but WHY??
+- DbContext is the base class for Entity Framework’s database context. It provides functionality for working with data models and managing database connections.
+- IdentityDbContext is a specialized version of DbContext specifically designed for ASP.NET Identity. It includes two DbSet properties: one for users (IdentityUser) and another for roles (IdentityRole). These sets are essential for managing user authentication and authorization.
+
+Why inherit from IdentityDbContext??
+- When building an application that uses ASP.NET Identity for user management (authentication, roles, etc.), it’s recommended to inherit from IdentityDbContext.
+-By doing so, our context becomes aware of the relationships between our custom models and the built-in Identity tables (users and roles).
+- The minimal overhead in using IdentityDbContext. It is a part of DbContext(regular DbContext) but with necessary DbSet properties for Identiy.
+
+What may be a good parctice: Using a single context class that inherits from IdentityDbContext for all our models. This way, we maintain consistency and ensure that Identity-related operations work seamlessly alongside our custom data.
+Avoid creating separate contexts (like AllTheOtherStuffDbContext). Instead, extend the existing ApplicationDbContext to include our custom models.
+
+ApplicationDbContext is inherited from IdentityDbContext using ApplicationUser as a base class to represent the IdentityUser
+public class ApplicationDbContext:IdentityDbContext<ApplicationUser>
+{
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> opitons) : base(opitons)
+    {
+        
+    }
+
+    // Table
+    public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+    // Model Configuration
+
+}
+ApplicationUser Model Configuration : This is essential for definint how our application's entity types are mapped to the underlying database.(ie. Entity type to db mappping)
+eg:
+protected override void OnModelCreating(ModelBuilder builder)
+{
+    base.OnModelCreating(builder);
+
+    builder.Entity<ApplicationUser>()
+        .Property(au => au.FirstName)
+        .IsRequired()
+        .HasMaxLength(100);
+
+    builder.Entity<ApplicationUser>()
+        .Property(au => au.MiddleName)
+        .HasMaxLength(100);
+
+    builder.Entity<ApplicationUser>()
+        .Property(au => au.Address)
+        .HasMaxLength(255);
+
+    builder.Entity<ApplicationUser>()
+        .Property(au => au.ProfileUrl)
+        .HasMaxLength(500);
+
+    builder.Entity<ApplicationUser>()
+        .Property(au => au.IsActive)
+        .HasDefaultValue(true);
+
+    builder.Entity<ApplicationUser>()
+        .Property(au => au.CreatedDate)
+        .IsRequired()
+        .HasDefaultValueSql("GETDATE()");
+
+    builder.Entity<IdentityRole>()
+        .ToTable("Roles")
+        .Property(au => au.Id)
+        .HasColumnName("RoleId");
+}
+
+Setting ConnectionString for a database connection:
+In appsetting.json, we setup ConnectionString to connecto to specific database server.
+"ConnectionStrings": {
+  "DefaultConnection": "Server=DESKTOP-7OJEPMF\\SQLEXPRESS;Database=Apil_PMSDb;Trusted_Connection=True;MultipleActiveResultSets=True;TrustServerCertificate=True"
+
+MultipleActiveResultSet=True; is used allowing the execution of multiple querry batches on a single connection.
+
+This ConnectionString should be injected in Program.cs(Dependency Injection), to allow our application to know we are using the database and for which DbContext.Adding our DbContext in program.cs ensures that our application can connect to the database and perform data operations effectively.
+eg:
+var ConnectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(ConnectionString));
+
+Add Custom Role to the application:
+using Apil_PMS.Web.Models;
+using Microsoft.AspNetCore.Identity;
+
+namespace Apil_PMS.Web.Data
+{
+    public class SeedingData
+    {
+        public static async Task CreateRoles(IServiceProvider serviceProvider)
+        {
+            // adding custom roles:
+            var RoleManager = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+            var UserManager = serviceProvider.GetRequiredService<UserManager<IdentityUser>>();
+
+
+            string[] RoleNames = { "SUPERADMIN", "ADMIN", "USER" };
+
+            foreach (var RoleName in RoleNames)
+            {
+                var RoleExist = await RoleManager.RoleExistsAsync(RoleName);
+                if (!RoleExist)
+                {
+                    await RoleManager.CreateAsync(new IdentityRole(RoleName));
+                }
+            }
+
+            //We can create a super user who will maintain the web app
+            if (await UserManager.FindByEmailAsync("superadmin@pms.com") == null)
+            {
+                var Role = RoleManager.FindByNameAsync("SUPERADMIN").Result;
+                var SuperAdminUser = new ApplicationUser()
+                {
+                    FirstName = "Super",
+                    LastName = "Admin",
+                    Address = "Earth",
+                    Email = "superadmin@pms.com",
+                    UserName = "superadmin@pms.com",
+                    UserRoleId = Role.Id,
+                    PhoneNumber = "1234567890",
+                    CreatedBy = "SUPERADMIN",
+                    CreatedDate = DateTime.Now
+                };
+
+                var result = await UserManager.CreateAsync(SuperAdminUser, "SuperAdmin@123");
+                await UserManager.SetLockoutEnabledAsync(SuperAdminUser, false);
+
+                // Assign the "SUPERADMIN" role to the super admin user
+                if (result.Succeeded)
+                {
+                    await UserManager.AddToRoleAsync(SuperAdminUser, "SUPERADMIN");
+                }
+            }
+        }
+    }
+}
+
+
+After making the custom roles, do dependency injection:
+using (var Scope = app.Services.CreateScope())
+{
+    var Services = Scope.ServiceProvider;
+    await SeedingData.CreateRoles(Services);
+}
+
+
