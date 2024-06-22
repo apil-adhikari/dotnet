@@ -11,6 +11,7 @@ namespace Apil_PMS.Web.Models
         public string MiddleName { get; set; }
         [Display(Name = "Last Name")]
         public string LastName { get; set; }
+        public string Gender {  get; set; }
 
         public string Address { get; set; }
 

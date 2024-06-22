@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj": {}
+    "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj": {
+    "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj",
+        "projectUniqueName": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj",
         "projectName": "Apil_PMS.Models",
-        "projectPath": "D:\\New folder\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj",
+        "projectPath": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj",
         "packagesPath": "C:\\Users\\Apil Adhikari\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\Apil_PMS\\Apil_PMS.Models\\obj\\",
+        "outputPath": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Apil Adhikari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

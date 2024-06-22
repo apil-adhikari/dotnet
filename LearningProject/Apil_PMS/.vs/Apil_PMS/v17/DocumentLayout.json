@@ -1,38 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\New folder\\Apil_PMS\\",
+  "WorkspaceRootPath": "D:\\New folder (2)\\Apil_PMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder\\apil_pms\\apil_pms.web\\data\\seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\data\\seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder (2)\\apil_pms\\apil_pms.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder\\apil_pms\\apil_pms.web\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder (2)\\apil_pms\\apil_pms.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder\\apil_pms\\apil_pms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder (2)\\apil_pms\\apil_pms.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder\\apil_pms\\apil_pms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder (2)\\apil_pms\\apil_pms.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Migrations\\20240622042728_InitialMigrationWithAppUserAndRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Apil_PMS.Web\\Migrations\\20240622042728_InitialMigrationWithAppUserAndRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder (2)\\apil_pms\\apil_pms.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder\\apil_pms\\apil_pms.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder (2)\\apil_pms\\apil_pms.web\\views\\category\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\views\\category\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder\\apil_pms\\apil_pms.web\\apil_pms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\apil_pms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2ADA9BEF-25E6-4BF0-BE1A-EEB434D76FC3}|Apil_PMS.Models\\Apil_PMS.Models.csproj|d:\\new folder (2)\\apil_pms\\apil_pms.models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADA9BEF-25E6-4BF0-BE1A-EEB434D76FC3}|Apil_PMS.Models\\Apil_PMS.Models.csproj|solutionrelative:apil_pms.models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder\\apil_pms\\apil_pms.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder (2)\\apil_pms\\apil_pms.web\\views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder (2)\\apil_pms\\apil_pms.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|d:\\new folder (2)\\apil_pms\\apil_pms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BE69292-44E2-4E31-A90E-563027B7367E}|Apil_PMS.Web\\Apil_PMS.Web.csproj|solutionrelative:apil_pms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,112 +50,131 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Apil_PMS.Web\\Program.cs",
-              "ToolTip": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Program.cs",
-              "RelativeToolTip": "Apil_PMS.Web\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Apil_PMS.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Apil_PMS.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwFMAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T03:39:55.39Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SeedingData.cs",
-              "DocumentMoniker": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Data\\SeedingData.cs",
-              "RelativeDocumentMoniker": "Apil_PMS.Web\\Data\\SeedingData.cs",
-              "ToolTip": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Data\\SeedingData.cs",
-              "RelativeToolTip": "Apil_PMS.Web\\Data\\SeedingData.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T03:45:26.637Z",
+              "WhenOpened": "2024-06-22T18:06:13.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Apil_PMS.Web\\appsettings.json",
-              "ToolTip": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\appsettings.json",
-              "RelativeToolTip": "Apil_PMS.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-22T03:24:43.791Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Apil_PMS.Web\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Apil_PMS.Web\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:52:47.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Apil_PMS.Web\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Apil_PMS.Web\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBMAAAAJAAAA",
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Category\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "Apil_PMS.Web\\Views\\Category\\AddEdit.cshtml",
+              "ToolTip": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Category\\AddEdit.cshtml",
+              "RelativeToolTip": "Apil_PMS.Web\\Views\\Category\\AddEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:51:38.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Apil_PMS.Models\\Entity\\Product.cs",
+              "ToolTip": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Entity\\Product.cs",
+              "RelativeToolTip": "Apil_PMS.Models\\Entity\\Product.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAD4vyQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T02:54:08.719Z",
+              "WhenOpened": "2024-06-22T17:51:36.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Apil_PMS.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Apil_PMS.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:50:14.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Apil_PMS.Web\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Apil_PMS.Web\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T02:53:19.803Z",
-              "EditorCaption": ""
+              "Title": "Notification.cshtml",
+              "DocumentMoniker": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Shared\\Notification.cshtml",
+              "RelativeDocumentMoniker": "Apil_PMS.Web\\Views\\Shared\\Notification.cshtml",
+              "ToolTip": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Shared\\Notification.cshtml",
+              "RelativeToolTip": "Apil_PMS.Web\\Views\\Shared\\Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:49:18.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Apil_PMS.Web\\Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Apil_PMS.Web\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAswAwAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T02:35:22.951Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Apil_PMS.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Apil_PMS.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:49:05.033Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20240622042728_InitialMigrationWithAppUserAndRoles.cs",
-              "DocumentMoniker": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Migrations\\20240622042728_InitialMigrationWithAppUserAndRoles.cs",
-              "RelativeDocumentMoniker": "Apil_PMS.Web\\Migrations\\20240622042728_InitialMigrationWithAppUserAndRoles.cs",
-              "ToolTip": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Migrations\\20240622042728_InitialMigrationWithAppUserAndRoles.cs",
-              "RelativeToolTip": "Apil_PMS.Web\\Migrations\\20240622042728_InitialMigrationWithAppUserAndRoles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Apil_PMS.Web\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Apil_PMS.Web\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:46:43.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Apil_PMS.Web\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Apil_PMS.Web\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:27:28.768Z",
+              "WhenOpened": "2024-06-22T17:45:14.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Apil_PMS.Web",
-              "DocumentMoniker": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Apil_PMS.Web.csproj",
-              "RelativeDocumentMoniker": "Apil_PMS.Web\\Apil_PMS.Web.csproj",
-              "ToolTip": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\Apil_PMS.Web.csproj",
-              "RelativeToolTip": "Apil_PMS.Web\\Apil_PMS.Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-22T02:53:05.849Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Apil_PMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Apil_PMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T17:44:24.546Z"
             }
           ]
         }

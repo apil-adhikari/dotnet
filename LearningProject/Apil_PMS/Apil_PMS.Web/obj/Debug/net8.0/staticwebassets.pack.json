@@ -1,247 +1,351 @@
 {
   "Files": [
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Apil_PMS.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Apil_PMS.Web.bundle.scp.css"
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\10ff7b59-3cf0-4423-b24e-cabac0620cc2_brocouli.jpg",
+      "PackagePath": "staticwebassets\\Images\\10ff7b59-3cf0-4423-b24e-cabac0620cc2_brocouli.jpg"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\css\\site.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\14f8fb87-39ba-4bb0-b92f-e6fe4ec2293b_cherry.jpg",
+      "PackagePath": "staticwebassets\\Images\\14f8fb87-39ba-4bb0-b92f-e6fe4ec2293b_cherry.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\1cc06bad-007d-4099-9f5a-9c770338238f_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\1cc06bad-007d-4099-9f5a-9c770338238f_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\2336f92d-98a8-4ea2-80ca-efbc3fadf390_Cauliflower.jpg",
+      "PackagePath": "staticwebassets\\Images\\2336f92d-98a8-4ea2-80ca-efbc3fadf390_Cauliflower.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\23c51e55-26a0-475d-91a6-5b681b756e01_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\23c51e55-26a0-475d-91a6-5b681b756e01_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\254a9e65-7251-49f9-97ab-83a29ad5bca3_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\254a9e65-7251-49f9-97ab-83a29ad5bca3_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\3dbc6a94-a6b7-482d-a381-8f0604413b07_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\3dbc6a94-a6b7-482d-a381-8f0604413b07_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\4c6fb611-555a-4476-a5e9-d5c9899b3cb9_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\4c6fb611-555a-4476-a5e9-d5c9899b3cb9_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\5d20598e-1473-4871-9ec1-a3be63b868fc_banana.jpg",
+      "PackagePath": "staticwebassets\\Images\\5d20598e-1473-4871-9ec1-a3be63b868fc_banana.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\68bf4414-1e5f-4900-8abb-828a085cca50_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\68bf4414-1e5f-4900-8abb-828a085cca50_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\72061249-f839-457f-ab9e-c9cbf175fe7e_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\72061249-f839-457f-ab9e-c9cbf175fe7e_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\74985871-4118-4dc2-8907-db4d3501fe5f_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\74985871-4118-4dc2-8907-db4d3501fe5f_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\757919bc-fc05-4f99-a577-1734f6e113f5_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\757919bc-fc05-4f99-a577-1734f6e113f5_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\87838d8e-0e7b-434c-99ce-52430c6d69af_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\87838d8e-0e7b-434c-99ce-52430c6d69af_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\9139be95-1641-43b8-ab9d-dadb5b08e011_cherry.jpg",
+      "PackagePath": "staticwebassets\\Images\\9139be95-1641-43b8-ab9d-dadb5b08e011_cherry.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\9c69ec57-b71c-41bf-93b6-4dbcf3aee06a_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\9c69ec57-b71c-41bf-93b6-4dbcf3aee06a_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\Upload.jpg",
+      "PackagePath": "staticwebassets\\Images\\Upload.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\b296b81a-97a6-4ae7-9020-7e8f6048dd5c_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\b296b81a-97a6-4ae7-9020-7e8f6048dd5c_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\brocouli.jpg",
+      "PackagePath": "staticwebassets\\Images\\brocouli.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\c42571f1-f504-49e7-8fdf-062efbcbc909_th.jpg",
+      "PackagePath": "staticwebassets\\Images\\c42571f1-f504-49e7-8fdf-062efbcbc909_th.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\d1f39fe2-808c-483a-bf12-42eb26479cd8_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\d1f39fe2-808c-483a-bf12-42eb26479cd8_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\d5f61ccd-764b-457c-b963-781f8ed70502_goat.jpg",
+      "PackagePath": "staticwebassets\\Images\\d5f61ccd-764b-457c-b963-781f8ed70502_goat.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\e1058771-c1c5-436b-a770-43c5421e501b_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\e1058771-c1c5-436b-a770-43c5421e501b_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\e12d428b-b01e-4511-a31b-9503d048c7f0_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\e12d428b-b01e-4511-a31b-9503d048c7f0_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\Images\\e2db6f62-802f-4e3f-9799-46b354b51995_apple.jpg",
+      "PackagePath": "staticwebassets\\Images\\e2db6f62-802f-4e3f-9799-46b354b51995_apple.jpg"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\css\\_variable.css",
+      "PackagePath": "staticwebassets\\css\\_variable.css"
+    },
+    {
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\favicon.ico",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\js\\site.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\New folder\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

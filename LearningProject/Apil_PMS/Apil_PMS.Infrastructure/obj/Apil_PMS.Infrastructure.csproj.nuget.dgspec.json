@@ -1,17 +1,102 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\Apil_PMS\\Apil_PMS.Infrastructure\\Apil_PMS.Infrastructure.csproj": {}
+    "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Infrastructure\\Apil_PMS.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\Apil_PMS\\Apil_PMS.Infrastructure\\Apil_PMS.Infrastructure.csproj": {
+    "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Infrastructure\\Apil_PMS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\Apil_PMS\\Apil_PMS.Infrastructure\\Apil_PMS.Infrastructure.csproj",
+        "projectUniqueName": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Infrastructure\\Apil_PMS.Infrastructure.csproj",
         "projectName": "Apil_PMS.Infrastructure",
-        "projectPath": "D:\\New folder\\Apil_PMS\\Apil_PMS.Infrastructure\\Apil_PMS.Infrastructure.csproj",
+        "projectPath": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Infrastructure\\Apil_PMS.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Apil Adhikari\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\Apil_PMS\\Apil_PMS.Infrastructure\\obj\\",
+        "outputPath": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Apil Adhikari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj": {
+                "projectPath": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj",
+        "projectName": "Apil_PMS.Models",
+        "projectPath": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\Apil_PMS.Models.csproj",
+        "packagesPath": "C:\\Users\\Apil Adhikari\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder (2)\\Apil_PMS\\Apil_PMS.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Apil Adhikari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +130,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

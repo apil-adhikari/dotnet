@@ -1,0 +1,35 @@
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Infrastructure.deps.json
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Infrastructure.runtimeconfig.json
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Infrastructure.dll
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Infrastructure.pdb
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Models.dll
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Models.pdb
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.AssemblyInfo.cs
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.sourcelink.json
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.F9CCC92A.Up2Date
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.dll
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\refint\Apil_PMS.Infrastructure.dll
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.pdb
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.genruntimeconfig.cache
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\ref\Apil_PMS.Infrastructure.dll
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Infrastructure.deps.json
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Infrastructure.runtimeconfig.json
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Infrastructure.dll
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Infrastructure.pdb
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Models.dll
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\bin\Debug\net8.0\Apil_PMS.Models.pdb
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.AssemblyInfo.cs
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.F9CCC92A.Up2Date
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.dll
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\refint\Apil_PMS.Infrastructure.dll
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.pdb
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\Apil_PMS.Infrastructure.genruntimeconfig.cache
+D:\New folder (2)\Apil_PMS\Apil_PMS.Infrastructure\obj\Debug\net8.0\ref\Apil_PMS.Infrastructure.dll

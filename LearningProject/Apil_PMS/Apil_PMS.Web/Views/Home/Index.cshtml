@@ -1,8 +1,81 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model Apil_PMS.Models.ViewModels.ProductViewModel
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="row">
+
+    <nav class="navbar mb-5 ">
+        <div class="container-fluid">
+            <form class="d-flex justify-content-end align-items-center" role="search" method="get" asp-action="search">
+                <div class="form-group me-2">
+
+                    <select asp-for="searchViewModel.categoryId" class="form-control form-select" asp-items="@(new SelectList(ViewBag.CategoryInfos, "Id", "CategoryName"))">
+                        <option value="null" selected disabled>Select Category</option>
+                    </select>
+                    <span id="CategoryInfoId" class="text-danger"></span>
+                </div>
+                <div class="form-group me-2">
+                    <input asp-for="searchViewModel.ProductName" class="form-control" type="search" placeholder="Product Name" aria-label="Search">
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-warning" type="submit">Search</button>
+                </div>
+            </form>
+        </div>
+    </nav>
+
+    @foreach (var product in Model.products)
+    {
+
+
+
+
+        <div class="col-md-3 mb-4">
+            <div class="card border">
+                <img src="/@product.ImageUrl" class="card-img-top" alt="@product.ProductName">
+                <div class="card-body">
+                    <h5 class="card-title">@product.ProductName</h5>
+                    <p class="card-text">Category: @product.Category.CategoryName</p>
+                    <p class="card-text">Price: @product.Rate NPR</p>
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#productModal-@product.Id">
+                        View Details
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal -->
+        <div class="modal fade" id="productModal-@product.Id" tabindex="-1" role="dialog" aria-labelledby="productModalLabel-@product.Id" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header fs-5">
+                        <h5 class="modal-title" id="productModalLabel-@product.Id">@product.ProductName Details</h5>
+
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col">
+                                <img src="/@product.ImageUrl" class="img-fluid" style="width:100; height:auto" alt="@product.ProductName">
+                            </div>
+
+                        </div>
+                        <div class="row">
+                            <div class="col-8">
+                                <p><strong>Name:</strong> @product.ProductName</p>
+                                <p><strong> Category:</strong> @product.Category.CategoryName</p>
+
+                                <p><strong>Batch Number:</strong> @product.BatchNo</p>
+                                <p><strong>Manufactured Date:</strong> @product.ProductionDate</p>
+                                <p><strong>Quantity: </strong> @product.Quantity</p>
+                                <p><strong>Rate:</strong> @product.Rate NPR</p>
+                                <p> <strong>Description:</strong>@product.ProductDescription</p>
+                            </div>
+                        </div>
+
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
 </div>

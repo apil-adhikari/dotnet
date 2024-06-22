@@ -1,0 +1,25 @@
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\bin\Debug\net8.0\Apil_PMS.Models.deps.json
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\bin\Debug\net8.0\Apil_PMS.Models.dll
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\bin\Debug\net8.0\Apil_PMS.Models.pdb
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.csproj.AssemblyReference.cache
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.AssemblyInfoInputs.cache
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.AssemblyInfo.cs
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.csproj.CoreCompileInputs.cache
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.sourcelink.json
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.dll
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\refint\Apil_PMS.Models.dll
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.pdb
+D:\New folder\dotnet\LearningProject\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\ref\Apil_PMS.Models.dll
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\bin\Debug\net8.0\Apil_PMS.Models.deps.json
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\bin\Debug\net8.0\Apil_PMS.Models.dll
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\bin\Debug\net8.0\Apil_PMS.Models.pdb
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.csproj.AssemblyReference.cache
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.AssemblyInfoInputs.cache
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.AssemblyInfo.cs
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.dll
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\refint\Apil_PMS.Models.dll
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\Apil_PMS.Models.pdb
+D:\New folder (2)\Apil_PMS\Apil_PMS.Models\obj\Debug\net8.0\ref\Apil_PMS.Models.dll

@@ -1,0 +1,8 @@
+﻿/* wwwroot/css/_variables.css */
+:root {
+    --primary-color: #043e4d; /* primary color */
+    --secondary-color: #c64843; /* secondary color */
+    --accent-color: #f2b59a; /* accent color */
+    --text-color: #fafeff; /* Text color */
+    --background-color: #fafeff; /* Background color */
+}
