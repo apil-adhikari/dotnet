@@ -6,6 +6,10 @@ Welcome to my learning projects repository! This repository contains a collectio
 This repository serves as a hub for various learning projects related to .NET development. Each project represents a different aspect of my learning journey and may cover different technologies, frameworks, or concepts within the .NET ecosystem.
 
 ## Current Projects
+### Product Management System
+- Description: A web application designed to manage Product and their categories effieiently. This system allows administrators to add, update, view detils and delete the product and the categories, whle the normal user is limited to creating a user account and viewing the product and categories added by the administrator.
+- [Link to this project Details](/LearningProject/Apil_PMS/README.md)
+
 ### Student Management System
 - Description: A web application designed to manage student information efficiently. This system allows administrators and educators to keep track of student details, academic records, and other essential data.
 - [Link to this project Details](/LearningProject/ApilSMS/README.md)
